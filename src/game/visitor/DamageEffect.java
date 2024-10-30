@@ -7,6 +7,6 @@ public class DamageEffect implements EffectVisitor {
     }
 
     public void applyDamage(Character character) {
-        System.out.println("Applying damage to character.");
+        System.out.println("Applying damage to character");
     }
 }
